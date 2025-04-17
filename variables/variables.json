@@ -1543,19 +1543,29 @@
     "Color": {
       "type": "COLOR",
       "modes": {
-        "Mode 1": "#FFFFFF"
+        "Mode 1": "#FFFFFF",
+        "Mode 2": "#000000"
       }
     },
     "Color 2": {
       "type": "COLOR",
       "modes": {
-        "Mode 1": "#FF0000"
+        "Mode 1": "#FF0000",
+        "Mode 2": "#3AE5FF"
       }
     },
     "Color 3": {
       "type": "COLOR",
       "modes": {
-        "Mode 1": "#FF0000"
+        "Mode 1": "#FF0000",
+        "Mode 2": "#CF7DFF"
+      }
+    },
+    "Color 4": {
+      "type": "COLOR",
+      "modes": {
+        "Mode 1": "#2AFF6A",
+        "Mode 2": "#EAFF00"
       }
     }
   }
