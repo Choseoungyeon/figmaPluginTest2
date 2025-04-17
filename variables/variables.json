@@ -1538,5 +1538,19 @@
         }
       }
     }
+  },
+  "testCollection": {
+    "Color": {
+      "type": "COLOR",
+      "modes": {
+        "Mode 1": "#FFFFFF"
+      }
+    },
+    "Color 2": {
+      "type": "COLOR",
+      "modes": {
+        "Mode 1": "#FF0000"
+      }
+    }
   }
 }
