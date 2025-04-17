@@ -1567,6 +1567,13 @@
         "Mode 1": "#2AFF6A",
         "Mode 2": "#EAFF00"
       }
+    },
+    "Color 5": {
+      "type": "COLOR",
+      "modes": {
+        "Mode 1": "#2AFF6A",
+        "Mode 2": "#EAFF00"
+      }
     }
   }
 }
