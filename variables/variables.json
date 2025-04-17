@@ -29,15 +29,15 @@
           "x": {
             "type": "FLOAT",
             "modes": {
-              "light": 24,
-              "dark": 24
+              "light": 10,
+              "dark": 10
             }
           },
           "y": {
             "type": "FLOAT",
             "modes": {
-              "light": 20,
-              "dark": 20
+              "light": 5,
+              "dark": 5
             }
           }
         },
