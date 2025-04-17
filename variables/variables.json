@@ -5,22 +5,22 @@
         "large": {
           "type": "FLOAT",
           "modes": {
-            "light": "primitive/component/size/large",
-            "dark": "primitive/component/size/large"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:516",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:516"
           }
         },
         "default": {
           "type": "FLOAT",
           "modes": {
-            "light": "primitive/component/size/default",
-            "dark": "primitive/component/size/default"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:517",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:517"
           }
         },
         "small": {
           "type": "FLOAT",
           "modes": {
-            "light": "primitive/component/size/small",
-            "dark": "primitive/component/size/small"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:518",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:518"
           }
         }
       },
@@ -79,29 +79,29 @@
           "large": {
             "type": "FLOAT",
             "modes": {
-              "light": "primitive/font/weight/regular",
-              "dark": "primitive/font/weight/regular"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:492",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:492"
             }
           },
           "default": {
             "type": "FLOAT",
             "modes": {
-              "light": "primitive/font/weight/regular",
-              "dark": "primitive/font/weight/regular"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:492",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:492"
             }
           },
           "small": {
             "type": "FLOAT",
             "modes": {
-              "light": "primitive/font/weight/regular",
-              "dark": "primitive/font/weight/regular"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:492",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:492"
             }
           },
           "xsmall": {
             "type": "FLOAT",
             "modes": {
-              "light": "primitive/font/weight/regular",
-              "dark": "primitive/font/weight/regular"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:492",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:492"
             }
           }
         },
@@ -148,8 +148,8 @@
       "border": {
         "type": "COLOR",
         "modes": {
-          "light": "primitive/border/color/default",
-          "dark": "primitive/border/color/default"
+          "light": "ERROR: Unresolved Alias ID VariableID:21023:508",
+          "dark": "ERROR: Unresolved Alias ID VariableID:21023:508"
         }
       },
       "hover": {
@@ -157,8 +157,8 @@
           "color": {
             "type": "COLOR",
             "modes": {
-              "light": "primitive/border/color/hover",
-              "dark": "primitive/border/color/hover"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:513",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:513"
             }
           }
         }
@@ -174,14 +174,14 @@
         "color": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/fill/color/blank",
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:534",
             "dark": "#00000000"
           }
         },
         "disabled": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/disabled/bg/color",
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:545",
             "dark": "#F5F7FA33"
           }
         }
@@ -190,8 +190,8 @@
         "color": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/text/color/placeholder",
-            "dark": "primitive/text/color/placeholder"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:526",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:526"
           }
         }
       },
@@ -207,8 +207,8 @@
           "color": {
             "type": "COLOR",
             "modes": {
-              "light": "primitive/text/color/secondary",
-              "dark": "primitive/text/color/secondary"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:525",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:525"
             }
           }
         }
@@ -228,22 +228,22 @@
         "large": {
           "type": "FLOAT",
           "modes": {
-            "light": "primitive/component/size/large",
-            "dark": "primitive/component/size/large"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:516",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:516"
           }
         },
         "default": {
           "type": "FLOAT",
           "modes": {
-            "light": "primitive/component/size/default",
-            "dark": "primitive/component/size/default"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:517",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:517"
           }
         },
         "small": {
           "type": "FLOAT",
           "modes": {
-            "light": "primitive/component/size/small",
-            "dark": "primitive/component/size/small"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:518",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:518"
           }
         }
       },
@@ -302,22 +302,22 @@
           "large": {
             "type": "FLOAT",
             "modes": {
-              "light": "primitive/font/weight/semiBold",
-              "dark": "primitive/font/weight/semiBold"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:490",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:490"
             }
           },
           "default": {
             "type": "FLOAT",
             "modes": {
-              "light": "primitive/font/weight/semiBold",
-              "dark": "primitive/font/weight/semiBold"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:490",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:490"
             }
           },
           "small": {
             "type": "FLOAT",
             "modes": {
-              "light": "primitive/font/weight/semiBold",
-              "dark": "primitive/font/weight/semiBold"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:490",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:490"
             }
           }
         },
@@ -325,22 +325,22 @@
           "large": {
             "type": "FLOAT",
             "modes": {
-              "light": "primitive/font/size/large",
-              "dark": "primitive/font/size/large"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:498",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:498"
             }
           },
           "default": {
             "type": "FLOAT",
             "modes": {
-              "light": "primitive/font/size/base",
-              "dark": "primitive/font/size/base"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:499",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:499"
             }
           },
           "small": {
             "type": "FLOAT",
             "modes": {
-              "light": "primitive/font/size/small",
-              "dark": "primitive/font/size/small"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:500",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:500"
             }
           }
         }
@@ -350,7 +350,7 @@
           "type": "COLOR",
           "modes": {
             "light": "#E9E8E8",
-            "dark": "primitive/border/color/default"
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:508"
           }
         },
         "radius": {
@@ -381,16 +381,16 @@
         "color": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/fill/color/blank",
-            "dark": "primitive/fill/color/blank"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:534",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:534"
           }
         }
       },
       "text": {
         "type": "COLOR",
         "modes": {
-          "light": "primitive/color/gray/9",
-          "dark": "primitive/color/gray/9"
+          "light": "ERROR: Unresolved Alias ID VariableID:21023:486",
+          "dark": "ERROR: Unresolved Alias ID VariableID:21023:486"
         }
       },
       "disabled": {
@@ -406,15 +406,15 @@
         "bg": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/fill/color/blank",
-            "dark": "primitive/fill/color/blank"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:534",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:534"
           }
         },
         "border": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/border/color/light",
-            "dark": "primitive/border/color/light"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:509",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:509"
           }
         }
       },
@@ -423,21 +423,21 @@
           "type": "COLOR",
           "modes": {
             "light": "#FFFFFF",
-            "dark": "primitive/color/gray/9"
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:486"
           }
         },
         "bg": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/color/primary/base",
-            "dark": "primitive/fill/color/blank"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:460",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:534"
           }
         },
         "border": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/color/primary/base",
-            "dark": "primitive/border/color/default"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:460",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:508"
           }
         }
       },
@@ -445,8 +445,8 @@
         "text": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/color/primary/base",
-            "dark": "primitive/color/primary/base"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:460",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:460"
           }
         }
       },
@@ -454,31 +454,31 @@
         "color": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/color/primary/base",
-            "dark": "primitive/color/primary/base"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:460",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:460"
           }
         },
         "text": {
           "color": {
             "type": "COLOR",
             "modes": {
-              "light": "primitive/color/white",
-              "dark": "primitive/color/primary/base"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:458",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:460"
             }
           }
         },
         "border": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/color/primary/dark/9",
-            "dark": "primitive/color/primary/base"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:470",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:460"
           }
         },
         "bg": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/color/primary/dark/5",
-            "dark": "primitive/color/primary/base"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:468",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:460"
           }
         }
       },
@@ -486,37 +486,37 @@
         "text": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/color/white",
-            "dark": "primitive/color/white"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:458",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:458"
           }
         },
         "bg": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/color/primary/base",
-            "dark": "primitive/color/primary/base"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:460",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:460"
           }
         },
         "border": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/color/primary/base",
-            "dark": "primitive/color/primary/base"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:460",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:460"
           }
         },
         "active": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/color/primary/dark/3",
-            "dark": "primitive/color/primary/dark/3"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:467",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:467"
           }
         },
         "hover": {
           "text": {
             "type": "COLOR",
             "modes": {
-              "light": "primitive/color/white",
-              "dark": "primitive/color/white"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:458",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:458"
             }
           },
           "link": {
@@ -524,8 +524,8 @@
               "color": {
                 "type": "COLOR",
                 "modes": {
-                  "light": "primitive/color/primary/light/5",
-                  "dark": "primitive/color/primary/light/5"
+                  "light": "ERROR: Unresolved Alias ID VariableID:21023:463",
+                  "dark": "ERROR: Unresolved Alias ID VariableID:21023:463"
                 }
               }
             }
@@ -534,16 +534,16 @@
             "color": {
               "type": "COLOR",
               "modes": {
-                "light": "primitive/color/primary/dark/3",
-                "dark": "primitive/color/primary/dark/3"
+                "light": "ERROR: Unresolved Alias ID VariableID:21023:467",
+                "dark": "ERROR: Unresolved Alias ID VariableID:21023:467"
               }
             }
           },
           "border": {
             "type": "COLOR",
             "modes": {
-              "light": "primitive/color/primary/light/3",
-              "dark": "primitive/color/primary/light/3"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:462",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:462"
             }
           }
         },
@@ -551,22 +551,22 @@
           "text": {
             "type": "COLOR",
             "modes": {
-              "light": "primitive/color/white",
-              "dark": "primitive/color/white"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:458",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:458"
             }
           },
           "bg": {
             "type": "COLOR",
             "modes": {
-              "light": "primitive/color/primary/light/9",
-              "dark": "primitive/color/primary/light/9"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:465",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:465"
             }
           },
           "border": {
             "type": "COLOR",
             "modes": {
-              "light": "primitive/color/primary/light/9",
-              "dark": "primitive/color/primary/light/9"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:465",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:465"
             }
           }
         }
@@ -576,45 +576,45 @@
           "color": {
             "type": "COLOR",
             "modes": {
-              "light": "primitive/color/white",
-              "dark": "primitive/color/white"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:458",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:458"
             }
           }
         },
         "bg": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/color/secondary/base",
-            "dark": "primitive/color/secondary/base"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:471",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:471"
           }
         },
         "border": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/color/secondary/base",
-            "dark": "primitive/color/secondary/base"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:471",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:471"
           }
         },
         "outline": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/color/secondary/light/5",
-            "dark": "primitive/color/secondary/light/5"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:474",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:474"
           }
         },
         "active": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/color/secondary/dark/3",
-            "dark": "primitive/color/secondary/dark/3"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:478",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:478"
           }
         },
         "hover": {
           "text": {
             "type": "COLOR",
             "modes": {
-              "light": "primitive/color/white",
-              "dark": "primitive/color/white"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:458",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:458"
             }
           },
           "link": {
@@ -622,8 +622,8 @@
               "color": {
                 "type": "COLOR",
                 "modes": {
-                  "light": "primitive/color/secondary/light/5",
-                  "dark": "primitive/color/secondary/light/5"
+                  "light": "ERROR: Unresolved Alias ID VariableID:21023:474",
+                  "dark": "ERROR: Unresolved Alias ID VariableID:21023:474"
                 }
               }
             }
@@ -632,16 +632,16 @@
             "color": {
               "type": "COLOR",
               "modes": {
-                "light": "primitive/color/secondary/dark/3",
-                "dark": "primitive/color/secondary/dark/3"
+                "light": "ERROR: Unresolved Alias ID VariableID:21023:478",
+                "dark": "ERROR: Unresolved Alias ID VariableID:21023:478"
               }
             }
           },
           "border": {
             "type": "COLOR",
             "modes": {
-              "light": "primitive/color/secondary/light/3",
-              "dark": "primitive/color/secondary/light/3"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:473",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:473"
             }
           }
         },
@@ -649,22 +649,22 @@
           "text": {
             "type": "COLOR",
             "modes": {
-              "light": "primitive/color/white",
-              "dark": "primitive/color/white"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:458",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:458"
             }
           },
           "bg": {
             "type": "COLOR",
             "modes": {
-              "light": "primitive/color/secondary/light/9",
-              "dark": "primitive/color/secondary/light/9"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:476",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:476"
             }
           },
           "border": {
             "type": "COLOR",
             "modes": {
-              "light": "primitive/color/secondary/light/9",
-              "dark": "primitive/color/secondary/light/9"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:476",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:476"
             }
           }
         }
@@ -699,22 +699,22 @@
           "large": {
             "type": "FLOAT",
             "modes": {
-              "light": "primitive/font/weight/semiBold",
-              "dark": "primitive/font/weight/semiBold"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:490",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:490"
             }
           },
           "default": {
             "type": "FLOAT",
             "modes": {
-              "light": "primitive/font/weight/semiBold",
-              "dark": "primitive/font/weight/semiBold"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:490",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:490"
             }
           },
           "small": {
             "type": "FLOAT",
             "modes": {
-              "light": "primitive/font/weight/semiBold",
-              "dark": "primitive/font/weight/semiBold"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:490",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:490"
             }
           }
         }
@@ -773,31 +773,31 @@
         "color": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/bg/color/overlay",
-            "dark": "primitive/bg/color/overlay"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:522",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:522"
           }
         }
       },
       "text": {
         "type": "COLOR",
         "modes": {
-          "light": "primitive/text/color/regular",
-          "dark": "primitive/text/color/regular"
+          "light": "ERROR: Unresolved Alias ID VariableID:21023:524",
+          "dark": "ERROR: Unresolved Alias ID VariableID:21023:524"
         }
       },
       "border": {
         "radius": {
           "type": "FLOAT",
           "modes": {
-            "light": "primitive/border/radius/large",
-            "dark": "primitive/border/radius/large"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:504",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:504"
           }
         },
         "color": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/border/color/light",
-            "dark": "primitive/border/color/light"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:509",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:509"
           }
         }
       },
@@ -806,23 +806,23 @@
           "color": {
             "type": "COLOR",
             "modes": {
-              "light": "primitive/color/gray/9",
-              "dark": "primitive/color/gray/9"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:486",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:486"
             }
           }
         },
         "text": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/color/gray/base",
-            "dark": "primitive/color/gray/9"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:487",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:486"
           }
         },
         "border": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/border/color/light",
-            "dark": "primitive/border/color/light"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:509",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:509"
           }
         }
       }
@@ -865,22 +865,22 @@
           "large": {
             "type": "FLOAT",
             "modes": {
-              "light": "primitive/font/weight/extraBold",
-              "dark": "primitive/font/weight/extraBold"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:488",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:488"
             }
           },
           "default": {
             "type": "FLOAT",
             "modes": {
-              "light": "primitive/font/weight/extraBold",
-              "dark": "primitive/font/weight/extraBold"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:488",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:488"
             }
           },
           "small": {
             "type": "FLOAT",
             "modes": {
-              "light": "primitive/font/weight/extraBold",
-              "dark": "primitive/font/weight/extraBold"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:488",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:488"
             }
           }
         }
@@ -981,8 +981,8 @@
         "weight": {
           "type": "FLOAT",
           "modes": {
-            "light": "primitive/font/weight/extraBold",
-            "dark": "primitive/font/weight/extraBold"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:488",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:488"
           }
         },
         "text": {
@@ -1004,8 +1004,8 @@
         "color": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/border/color/darker",
-            "dark": "primitive/border/color/darker"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:512",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:512"
           }
         },
         "width": {
@@ -1031,8 +1031,8 @@
         "color": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/text/color/regular",
-            "dark": "primitive/text/color/regular"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:524",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:524"
           }
         }
       },
@@ -1064,22 +1064,22 @@
           "large": {
             "type": "FLOAT",
             "modes": {
-              "light": "primitive/font/weight/regular",
-              "dark": "primitive/font/weight/regular"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:492",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:492"
             }
           },
           "default": {
             "type": "FLOAT",
             "modes": {
-              "light": "primitive/font/weight/regular",
-              "dark": "primitive/font/weight/regular"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:492",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:492"
             }
           },
           "small": {
             "type": "FLOAT",
             "modes": {
-              "light": "primitive/font/weight/regular",
-              "dark": "primitive/font/weight/regular"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:492",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:492"
             }
           }
         }
@@ -1159,22 +1159,22 @@
         "text": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/color/primary/base",
-            "dark": "primitive/color/primary/base"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:460",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:460"
           }
         },
         "weight": {
           "type": "FLOAT",
           "modes": {
-            "light": "primitive/font/weight/extraBold",
-            "dark": "primitive/font/weight/extraBold"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:488",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:488"
           }
         },
         "bg": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/fill/color/light",
-            "dark": "primitive/fill/color/light"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:529",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:529"
           }
         },
         "radius": {
@@ -1215,22 +1215,22 @@
           "large": {
             "type": "FLOAT",
             "modes": {
-              "light": "primitive/font/weight/regular",
-              "dark": "primitive/font/weight/regular"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:492",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:492"
             }
           },
           "default": {
             "type": "FLOAT",
             "modes": {
-              "light": "primitive/font/weight/regular",
-              "dark": "primitive/font/weight/regular"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:492",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:492"
             }
           },
           "small": {
             "type": "FLOAT",
             "modes": {
-              "light": "primitive/font/weight/regular",
-              "dark": "primitive/font/weight/regular"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:492",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:492"
             }
           }
         },
@@ -1262,24 +1262,24 @@
         "color": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/color/secondary/base",
-            "dark": "primitive/color/secondary/base"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:471",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:471"
           }
         },
         "text": {
           "color": {
             "type": "COLOR",
             "modes": {
-              "light": "primitive/text/color/regular",
-              "dark": "primitive/text/color/regular"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:524",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:524"
             }
           }
         },
         "icon": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/color/white",
-            "dark": "primitive/color/white"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:458",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:458"
           }
         }
       },
@@ -1287,38 +1287,38 @@
         "color": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/border/color/default",
-            "dark": "primitive/border/color/default"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:508",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:508"
           }
         }
       },
       "bg": {
         "type": "COLOR",
         "modes": {
-          "light": "primitive/fill/color/lighter",
-          "dark": "primitive/fill/color/lighter"
+          "light": "ERROR: Unresolved Alias ID VariableID:21023:530",
+          "dark": "ERROR: Unresolved Alias ID VariableID:21023:530"
         }
       },
       "disabled": {
         "bg": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/fill/color/light",
-            "dark": "primitive/fill/color/light"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:529",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:529"
           }
         },
         "border": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/border/color/light",
-            "dark": "primitive/border/color/light"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:509",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:509"
           }
         },
         "text": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/text/color/disabled",
-            "dark": "primitive/text/color/disabled"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:527",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:527"
           }
         }
       },
@@ -1351,8 +1351,8 @@
         "color": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/text/color/regular",
-            "dark": "primitive/text/color/regular"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:524",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:524"
           }
         }
       }
@@ -1361,8 +1361,8 @@
       "progress": {
         "type": "COLOR",
         "modes": {
-          "light": "primitive/color/primary/base",
-          "dark": "primitive/color/primary/base"
+          "light": "ERROR: Unresolved Alias ID VariableID:21023:460",
+          "dark": "ERROR: Unresolved Alias ID VariableID:21023:460"
         }
       },
       "handle": {
@@ -1383,16 +1383,16 @@
         "color": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/bg/color/default",
-            "dark": "primitive/bg/color/default"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:519",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:519"
           }
         }
       },
       "disabled": {
         "type": "COLOR",
         "modes": {
-          "light": "primitive/fill/color/darker",
-          "dark": "primitive/fill/color/darker"
+          "light": "ERROR: Unresolved Alias ID VariableID:21023:533",
+          "dark": "ERROR: Unresolved Alias ID VariableID:21023:533"
         }
       },
       "dot-size": {
@@ -1406,8 +1406,8 @@
         "color": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/fill/color/default",
-            "dark": "primitive/fill/color/default"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:528",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:528"
           }
         },
         "height": {
@@ -1454,22 +1454,22 @@
         "large": {
           "type": "FLOAT",
           "modes": {
-            "light": "primitive/component/size/large",
-            "dark": "primitive/component/size/large"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:516",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:516"
           }
         },
         "default": {
           "type": "FLOAT",
           "modes": {
-            "light": "primitive/component/size/default",
-            "dark": "primitive/component/size/default"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:517",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:517"
           }
         },
         "small": {
           "type": "FLOAT",
           "modes": {
-            "light": "primitive/component/size/small",
-            "dark": "primitive/component/size/small"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:518",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:518"
           }
         }
       },
@@ -1478,22 +1478,22 @@
           "large": {
             "type": "FLOAT",
             "modes": {
-              "light": "primitive/font/size/large",
-              "dark": "primitive/font/size/large"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:498",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:498"
             }
           },
           "default": {
             "type": "FLOAT",
             "modes": {
-              "light": "primitive/font/size/base",
-              "dark": "primitive/font/size/base"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:499",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:499"
             }
           },
           "small": {
             "type": "FLOAT",
             "modes": {
-              "light": "primitive/font/size/small",
-              "dark": "primitive/font/size/small"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:500",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:500"
             }
           }
         },
@@ -1501,22 +1501,22 @@
           "large": {
             "type": "FLOAT",
             "modes": {
-              "light": "primitive/font/weight/semiBold",
-              "dark": "primitive/font/weight/semiBold"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:490",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:490"
             }
           },
           "default": {
             "type": "FLOAT",
             "modes": {
-              "light": "primitive/font/weight/semiBold",
-              "dark": "primitive/font/weight/semiBold"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:490",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:490"
             }
           },
           "small": {
             "type": "FLOAT",
             "modes": {
-              "light": "primitive/font/weight/semiBold",
-              "dark": "primitive/font/weight/semiBold"
+              "light": "ERROR: Unresolved Alias ID VariableID:21023:490",
+              "dark": "ERROR: Unresolved Alias ID VariableID:21023:490"
             }
           }
         }
@@ -1525,708 +1525,16 @@
         "on": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/color/primary/base",
-            "dark": "primitive/color/primary/base"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:460",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:460"
           }
         },
         "off": {
           "type": "COLOR",
           "modes": {
-            "light": "primitive/border/color/default",
-            "dark": "primitive/border/color/default"
+            "light": "ERROR: Unresolved Alias ID VariableID:21023:508",
+            "dark": "ERROR: Unresolved Alias ID VariableID:21023:508"
           }
-        }
-      }
-    }
-  },
-  "primitive": {
-    "color": {
-      "white": {
-        "type": "COLOR",
-        "modes": {
-          "light": "#FFFFFF",
-          "dark": "#FFFFFF"
-        }
-      },
-      "black": {
-        "type": "COLOR",
-        "modes": {
-          "light": "#221A19",
-          "dark": "#221A19"
-        }
-      },
-      "primary": {
-        "base": {
-          "type": "COLOR",
-          "modes": {
-            "light": "#EA2626",
-            "dark": "#EA2626"
-          }
-        },
-        "light": {
-          "1": {
-            "type": "COLOR",
-            "modes": {
-              "light": "#EC3C3C",
-              "dark": "#DF1616"
-            }
-          },
-          "3": {
-            "type": "COLOR",
-            "modes": {
-              "light": "#F06161",
-              "dark": "#C81414"
-            }
-          },
-          "5": {
-            "type": "COLOR",
-            "modes": {
-              "light": "#F27373",
-              "dark": "#B01212"
-            }
-          },
-          "7": {
-            "type": "COLOR",
-            "modes": {
-              "light": "#F48A8A",
-              "dark": "#991010"
-            }
-          },
-          "9": {
-            "type": "COLOR",
-            "modes": {
-              "light": "#F6A2A2",
-              "dark": "#810E0E"
-            }
-          }
-        },
-        "dark": {
-          "1": {
-            "type": "COLOR",
-            "modes": {
-              "light": "#DF1616",
-              "dark": "#EC3C3C"
-            }
-          },
-          "3": {
-            "type": "COLOR",
-            "modes": {
-              "light": "#C81414",
-              "dark": "#F06161"
-            }
-          },
-          "5": {
-            "type": "COLOR",
-            "modes": {
-              "light": "#B01212",
-              "dark": "#F27373"
-            }
-          },
-          "7": {
-            "type": "COLOR",
-            "modes": {
-              "light": "#991010",
-              "dark": "#F48A8A"
-            }
-          },
-          "9": {
-            "type": "COLOR",
-            "modes": {
-              "light": "#810E0E",
-              "dark": "#F6A2A2"
-            }
-          }
-        }
-      },
-      "secondary": {
-        "base": {
-          "type": "COLOR",
-          "modes": {
-            "light": "#221A19",
-            "dark": "#221A19"
-          }
-        },
-        "light": {
-          "1": {
-            "type": "COLOR",
-            "modes": {
-              "light": "#413130",
-              "dark": "#15100F"
-            }
-          },
-          "3": {
-            "type": "COLOR",
-            "modes": {
-              "light": "#5E4745",
-              "dark": "#060504"
-            }
-          },
-          "5": {
-            "type": "COLOR",
-            "modes": {
-              "light": "#7C5D5B",
-              "dark": "#000000"
-            }
-          },
-          "7": {
-            "type": "COLOR",
-            "modes": {
-              "light": "#977472",
-              "dark": "#000000"
-            }
-          },
-          "9": {
-            "type": "COLOR",
-            "modes": {
-              "light": "#AD918F",
-              "dark": "#000000"
-            }
-          }
-        },
-        "dark": {
-          "1": {
-            "type": "COLOR",
-            "modes": {
-              "light": "#15100F",
-              "dark": "#413130"
-            }
-          },
-          "3": {
-            "type": "COLOR",
-            "modes": {
-              "light": "#060504",
-              "dark": "#5E4745"
-            }
-          },
-          "5": {
-            "type": "COLOR",
-            "modes": {
-              "light": "#000000",
-              "dark": "#7C5D5B"
-            }
-          },
-          "7": {
-            "type": "COLOR",
-            "modes": {
-              "light": "#000000",
-              "dark": "#977472"
-            }
-          },
-          "9": {
-            "type": "COLOR",
-            "modes": {
-              "light": "#000000",
-              "dark": "#AD918F"
-            }
-          }
-        }
-      },
-      "gray": {
-        "1": {
-          "type": "COLOR",
-          "modes": {
-            "light": "#E6E6E6",
-            "dark": "#3E3E3E"
-          }
-        },
-        "3": {
-          "type": "COLOR",
-          "modes": {
-            "light": "#B3B3B3",
-            "dark": "#696969"
-          }
-        },
-        "5": {
-          "type": "COLOR",
-          "modes": {
-            "light": "#898989",
-            "dark": "#949494"
-          }
-        },
-        "7": {
-          "type": "COLOR",
-          "modes": {
-            "light": "#4D4D4D",
-            "dark": "#BFBFBF"
-          }
-        },
-        "9": {
-          "type": "COLOR",
-          "modes": {
-            "light": "#1A1A1A",
-            "dark": "#EAEAEA"
-          }
-        },
-        "base": {
-          "type": "COLOR",
-          "modes": {
-            "light": "#FFFFFF",
-            "dark": "#292929"
-          }
-        }
-      }
-    },
-    "font": {
-      "weight": {
-        "extraBold": {
-          "type": "FLOAT",
-          "modes": {
-            "light": 800,
-            "dark": 800
-          }
-        },
-        "bold": {
-          "type": "FLOAT",
-          "modes": {
-            "light": 700,
-            "dark": 700
-          }
-        },
-        "semiBold": {
-          "type": "FLOAT",
-          "modes": {
-            "light": 600,
-            "dark": 600
-          }
-        },
-        "medium": {
-          "type": "FLOAT",
-          "modes": {
-            "light": 500,
-            "dark": 500
-          }
-        },
-        "regular": {
-          "type": "FLOAT",
-          "modes": {
-            "light": 400,
-            "dark": 400
-          }
-        },
-        "light": {
-          "type": "FLOAT",
-          "modes": {
-            "light": 300,
-            "dark": 300
-          }
-        },
-        "extraLight": {
-          "type": "FLOAT",
-          "modes": {
-            "light": 200,
-            "dark": 200
-          }
-        },
-        "thin": {
-          "type": "FLOAT",
-          "modes": {
-            "light": 100,
-            "dark": 100
-          }
-        }
-      },
-      "size": {
-        "xxlarge": {
-          "type": "FLOAT",
-          "modes": {
-            "light": 30,
-            "dark": 30
-          }
-        },
-        "xlarge": {
-          "type": "FLOAT",
-          "modes": {
-            "light": 25,
-            "dark": 25
-          }
-        },
-        "large": {
-          "type": "FLOAT",
-          "modes": {
-            "light": 18,
-            "dark": 18
-          }
-        },
-        "base": {
-          "type": "FLOAT",
-          "modes": {
-            "light": 16,
-            "dark": 16
-          }
-        },
-        "small": {
-          "type": "FLOAT",
-          "modes": {
-            "light": 14,
-            "dark": 14
-          }
-        },
-        "xsmall": {
-          "type": "FLOAT",
-          "modes": {
-            "light": 12,
-            "dark": 12
-          }
-        }
-      },
-      "family": {
-        "default": {
-          "type": "STRING",
-          "modes": {
-            "light": "Pretendard",
-            "dark": "Pretendard"
-          }
-        }
-      }
-    },
-    "border": {
-      "radius": {
-        "xlarge": {
-          "type": "FLOAT",
-          "modes": {
-            "light": 10,
-            "dark": 10
-          }
-        },
-        "large": {
-          "type": "FLOAT",
-          "modes": {
-            "light": 8,
-            "dark": 8
-          }
-        },
-        "base": {
-          "type": "FLOAT",
-          "modes": {
-            "light": 6,
-            "dark": 6
-          }
-        },
-        "small": {
-          "type": "FLOAT",
-          "modes": {
-            "light": 4,
-            "dark": 4
-          }
-        },
-        "xsmall": {
-          "type": "FLOAT",
-          "modes": {
-            "light": 2,
-            "dark": 2
-          }
-        }
-      },
-      "color": {
-        "default": {
-          "type": "COLOR",
-          "modes": {
-            "light": "#DCDFE6",
-            "dark": "#595A5C"
-          }
-        },
-        "light": {
-          "type": "COLOR",
-          "modes": {
-            "light": "#E4E7ED",
-            "dark": "#4F4F51"
-          }
-        },
-        "lighter": {
-          "type": "COLOR",
-          "modes": {
-            "light": "#EBEEF5",
-            "dark": "#444546"
-          }
-        },
-        "dark": {
-          "type": "COLOR",
-          "modes": {
-            "light": "#D4D7DE",
-            "dark": "#636466"
-          }
-        },
-        "darker": {
-          "type": "COLOR",
-          "modes": {
-            "light": "#CDD0D6",
-            "dark": "#6E6F71"
-          }
-        },
-        "hover": {
-          "type": "COLOR",
-          "modes": {
-            "light": "primitive/text/color/disabled",
-            "dark": "primitive/text/color/disabled"
-          }
-        }
-      },
-      "width": {
-        "type": "FLOAT",
-        "modes": {
-          "light": 1,
-          "dark": 1
-        }
-      },
-      "style": {
-        "type": "STRING",
-        "modes": {
-          "light": "solid",
-          "dark": "solid"
-        }
-      }
-    },
-    "component": {
-      "size": {
-        "large": {
-          "type": "FLOAT",
-          "modes": {
-            "light": 45,
-            "dark": 45
-          }
-        },
-        "default": {
-          "type": "FLOAT",
-          "modes": {
-            "light": 40,
-            "dark": 40
-          }
-        },
-        "small": {
-          "type": "FLOAT",
-          "modes": {
-            "light": 30,
-            "dark": 30
-          }
-        }
-      }
-    },
-    "bg": {
-      "color": {
-        "default": {
-          "type": "COLOR",
-          "modes": {
-            "light": "#FFFFFF",
-            "dark": "#252525"
-          }
-        },
-        "dim": {
-          "type": "COLOR",
-          "modes": {
-            "light": "#FFFFFF",
-            "dark": "#000000"
-          }
-        },
-        "page": {
-          "type": "COLOR",
-          "modes": {
-            "light": "#F2F3F5",
-            "dark": "#0A0A0A"
-          }
-        },
-        "overlay": {
-          "type": "COLOR",
-          "modes": {
-            "light": "#FFFFFF",
-            "dark": "#1D1E1F"
-          }
-        }
-      }
-    },
-    "text": {
-      "color": {
-        "primary": {
-          "type": "COLOR",
-          "modes": {
-            "light": "#303133",
-            "dark": "#E6EBF4"
-          }
-        },
-        "regular": {
-          "type": "COLOR",
-          "modes": {
-            "light": "#606266",
-            "dark": "#D2D6DE"
-          }
-        },
-        "secondary": {
-          "type": "COLOR",
-          "modes": {
-            "light": "#909399",
-            "dark": "#A9ACB3"
-          }
-        },
-        "placeholder": {
-          "type": "COLOR",
-          "modes": {
-            "light": "#A8ABB2",
-            "dark": "#95979D"
-          }
-        },
-        "disabled": {
-          "type": "COLOR",
-          "modes": {
-            "light": "#C0C4CC",
-            "dark": "#76787C"
-          }
-        }
-      }
-    },
-    "fill": {
-      "color": {
-        "default": {
-          "type": "COLOR",
-          "modes": {
-            "light": "#F0F2F5",
-            "dark": "#3F3F3F"
-          }
-        },
-        "light": {
-          "type": "COLOR",
-          "modes": {
-            "light": "#F5F7FA",
-            "dark": "#363636"
-          }
-        },
-        "lighter": {
-          "type": "COLOR",
-          "modes": {
-            "light": "#FAFAFA",
-            "dark": "#2E2E2E"
-          }
-        },
-        "extra": {
-          "light": {
-            "type": "COLOR",
-            "modes": {
-              "light": "#FAFCFF",
-              "dark": "#292929"
-            }
-          }
-        },
-        "dark": {
-          "type": "COLOR",
-          "modes": {
-            "light": "#EBEDF0",
-            "dark": "#474748"
-          }
-        },
-        "darker": {
-          "type": "COLOR",
-          "modes": {
-            "light": "#E6E8EB",
-            "dark": "#505051"
-          }
-        },
-        "blank": {
-          "type": "COLOR",
-          "modes": {
-            "light": "#FFFFFF",
-            "dark": "#FFFFFF00"
-          }
-        }
-      }
-    },
-    "box": {
-      "shadow": {
-        "light": {
-          "x": {
-            "type": "FLOAT",
-            "modes": {
-              "light": 0,
-              "dark": 0
-            }
-          },
-          "y": {
-            "type": "FLOAT",
-            "modes": {
-              "light": 0,
-              "dark": 0
-            }
-          },
-          "blur": {
-            "type": "FLOAT",
-            "modes": {
-              "light": 12,
-              "dark": 12
-            }
-          },
-          "spread": {
-            "type": "FLOAT",
-            "modes": {
-              "light": 0,
-              "dark": 0
-            }
-          },
-          "color": {
-            "type": "COLOR",
-            "modes": {
-              "light": "#0000001F",
-              "dark": "#000000B8"
-            }
-          }
-        },
-        "lighter": {
-          "x": {
-            "type": "FLOAT",
-            "modes": {
-              "light": 0,
-              "dark": 0
-            }
-          },
-          "y": {
-            "type": "FLOAT",
-            "modes": {
-              "light": 0,
-              "dark": 0
-            }
-          },
-          "blur": {
-            "type": "FLOAT",
-            "modes": {
-              "light": 6,
-              "dark": 6
-            }
-          },
-          "spread": {
-            "type": "FLOAT",
-            "modes": {
-              "light": 0,
-              "dark": 0
-            }
-          },
-          "color": {
-            "type": "COLOR",
-            "modes": {
-              "light": "#0000001F",
-              "dark": "#000000B8"
-            }
-          }
-        }
-      }
-    },
-    "disabled": {
-      "bg": {
-        "color": {
-          "type": "COLOR",
-          "modes": {
-            "light": "#F2F2F2",
-            "dark": "primitive/fill/color/light"
-          }
-        }
-      },
-      "text": {
-        "type": "COLOR",
-        "modes": {
-          "light": "#BDBABA",
-          "dark": "primitive/text/color/placeholder"
-        }
-      },
-      "border": {
-        "type": "COLOR",
-        "modes": {
-          "light": "#BDBABA",
-          "dark": "primitive/border/color/light"
         }
       }
     }
