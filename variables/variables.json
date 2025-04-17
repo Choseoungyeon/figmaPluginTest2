@@ -1551,6 +1551,12 @@
       "modes": {
         "Mode 1": "#FF0000"
       }
+    },
+    "Color 3": {
+      "type": "COLOR",
+      "modes": {
+        "Mode 1": "#FF0000"
+      }
     }
   }
 }
