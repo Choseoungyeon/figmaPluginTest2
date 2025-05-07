@@ -398,6 +398,17 @@ color-scheme:dark;
 --collection1-number2: 0;
 --collection1-boolean: false;
 --collection1-string: String value;
+--collection-number: 0;
+--collection-number2: 0;
+--collection-color: #FFFFFF;
+--collection-string: String value;
+--collection-number3: 0;
+--collection-number4: 0;
+--collection-number5: 0;
+--collection-string2: String value;
+--collection-string3: String value;
+--collection-number6: 0;
+--collection-color2: #FFFFFF;
 }
 :root.Mode 2 {
 --testcollection-color: #000000;
