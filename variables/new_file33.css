@@ -402,6 +402,9 @@ color-scheme:dark;
 --collection-number2: 0;
 --collection-color: #FFFFFF;
 --collection-string: String value;
+--collection-number3: 0;
+--collection-number4: 0;
+--collection-number5: 0;
 }
 :root.Mode 2 {
 --testcollection-color: #000000;
