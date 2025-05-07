@@ -411,6 +411,8 @@ color-scheme:dark;
 --collection-color2: #FFFFFF;
 --collection-color3: #FFFFFF;
 --collection-color4: #FFFFFF;
+--collection-number7: 0;
+--collection-number8: 0;
 }
 :root.Mode 2 {
 --testcollection-color: #000000;
